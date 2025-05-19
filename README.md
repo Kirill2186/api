@@ -5,7 +5,7 @@
 <li> <a href="https://drive.google.com/file/d/1fBmiHS_XNqzrBXZWskAVxoR_XhJjaGR_/view?usp=drive_link">DemoShopping.postman_test_run</a> </li>
 
 
-<li> <a href="https://drive.google.com/file/d/1qlkjaB3ijIXN5fX4bKcXQ9TAu6mrIdV7/view?usp=drive_link">Тест - кейсы для тестирования API</a> </li>
+<li> <a href="https://drive.google.com/file/d/1GgPqqm_xM1JjPmQV3QPcEWvNJhCqSJT_/view?usp=drive_link">Тест - кейсы для тестирования API</a> </li>
 
 
 </div>
